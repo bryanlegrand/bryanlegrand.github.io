@@ -1,0 +1,15 @@
+---
+title: American Way Formation
+subtitle: Automated ERP
+layout: default
+modal-id: 3
+date: 2021-01-03
+img: awf.png
+thumbnail: awf-thumb.png
+alt: image-alt
+project-date: 2017-Today
+tech: Google Sheets, Google Forms, Google Scripts, Google Docs, AutoCrat, FormRanger, Automate.io, Zapier, N8N, Trello
+production-time: Project started in late 2017 and maintained up to present day
+description: This project was started in mid 2017 as I began to explore the possibility of opening my own language school on Reunion Island. American Way Formation was launched in August of 2018 and quickly grew to a company of 100 students and a team of 5-6 teachers. A huge part of our success was thanks to an in-house ERP built on Google's Gsuite products, java coding, and no-code automation tools such as Zapier, Automate.io, and N8N. Some of the features included, automatic invoice reconcilation, project progress tracking, automated document creation and management, and much more. The efficiency of the system allowed me to scale the company without having to hire an assistant to manage back-office tasks. As the information is sensitive, an online preview of the system is not available. If you'd like to know more about it, contact me using the contact form at the bottom of the site.
+
+---
