@@ -1,0 +1,15 @@
+---
+title: Vezina Trophy Predicting
+subtitle: Web-Scraping, Machine Learning
+layout: default
+modal-id: 5
+date: 2021-01-03
+img: vezina.png
+thumbnail: vezina-thumb.png
+alt: image-alt
+project-date: 2017-Today
+tech: Python, Jupyter Notebook, Selenium, Pandas, BeautifulSoup, Requests
+production-time: 4 hours
+description: This project was a self conceived project designed to show specific python skills, in particular web-scraping, cleaning, and machine learning model building.<br><br><strong><a href="https://github.com/rogueverve/data-notebooks/blob/main/web_scraping_data_cleaning.ipynb" target="_blank">CLICK HERE TO SEE THE NOTEBOOK ON GITHUB</a></strong>
+
+---

@@ -1,0 +1,15 @@
+---
+title: Classifying Emails
+subtitle: Python, Machine Learning
+layout: default
+modal-id: 6
+date: 2021-01-03
+img: spam.png
+thumbnail: spam-thumb.png
+alt: image-alt
+project-date: 2017-Today
+tech: Python, Jupyter Notebook, Pandas, SK-Learn
+production-time: 1 day
+description: This project was a guided project made during an online trainnig from Dataquest.io. The project goal is to take a long list of sms messages and train a machine learning model to classify them as spam or not. The dataset was split into train/test sets and the resulting classification was compared for accuracy.<br><br><strong><a href="https://github.com/rogueverve/data-notebooks/blob/main/SMSSPamCollection.ipynb" target="_blank">CLICK HERE TO SEE THE NOTEBOOK ON GITHUB</a></strong>
+
+---

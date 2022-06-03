@@ -2,7 +2,7 @@
 title: American Way Formation
 subtitle: Automated ERP
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2021-01-03
 img: awf.png
 thumbnail: awf-thumb.png
