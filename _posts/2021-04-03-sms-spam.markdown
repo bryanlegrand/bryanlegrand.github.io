@@ -1,6 +1,6 @@
 ---
 title: Classifying Emails
-subtitle: Python, Machine Learning
+subtitle: Machine Learning
 layout: default
 modal-id: 6
 date: 2021-01-03

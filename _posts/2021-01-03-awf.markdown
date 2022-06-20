@@ -1,6 +1,6 @@
 ---
 title: American Way Formation
-subtitle: Automated ERP
+subtitle: Automated ERP, Low-Code
 layout: default
 modal-id: 4
 date: 2021-01-03
