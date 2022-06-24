@@ -10,6 +10,6 @@ alt: image-alt
 project-date: January 2022
 tech: Python, Jupyter Notebook, Pandas, Matplotlib
 production-time: 1 day
-description: This project was a guided project made during an online trainnig from Dataquest.io. The project analyzes survey responses from Star Wars fans collected before the release of Episode 7. Some of the questions answered were "Which film is considered the best" and "Which characters are most/least popular?".<br><br><strong><a href="https://github.com/rogueverve/data-notebooks/blob/main/star_wars.ipynb" target="_blank">CLICK HERE TO SEE THE NOTEBOOK ON GITHUB</a></strong>
+description: The project analyzes survey responses from Star Wars fans collected before the release of Episode 7. Some of the questions answered were "Which film is considered the best" and "Which characters are most/least popular?".<br><br><strong><a href="https://github.com/rogueverve/data-notebooks/blob/main/star_wars.ipynb" target="_blank">CLICK HERE TO SEE THE NOTEBOOK ON GITHUB</a></strong>
 
 ---
